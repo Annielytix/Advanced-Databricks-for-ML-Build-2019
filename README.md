@@ -1,5 +1,5 @@
-# build2019-databricksML
-Using Databricks for ML, this is the //build 2019 repository with homework examples, code and notebooks
+# build2019-Azure Databricks for ML
+Using Azure Databricks (Spark) for ML, this is the repository prsented at //build 2019 with additional homework examples, code and notebooks
 
 # Welcome
 
